@@ -3,6 +3,8 @@ It is a lightweight and powerful point cloud visualization software, which suppo
 
 一款轻量而功能强大的点云可视化软件，支持pcd, ply, las等多种格式，轻松打开海量点云数据，支持多方式多字段渲染点云，对点进行方便的查询和量测，可应用于测绘、高精地图、SLAM等领域。
 
+![image](https://user-images.githubusercontent.com/40223484/131897895-e082d4f7-dea8-4a2e-a815-7235381b24b7.png)
+
 ## Shortcut key
 P/p   Pan quickly/slowly      使平移速度变快/变慢
 R/r   Rotate quickly/slowly   使旋转速度变快/变慢
@@ -30,7 +32,8 @@ Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住A
    支持对点的坐标查询和点间距离的量测；
 6. Provides a MAGNIFIER tool to take a closer obsveration to a specific location, and tool can also used to selected a roaming center for the scene;
    提供了一个放大镜工具对指定点观看，这个工具同时也可用来指定场景的漫游中心点;
-7. Filter by range is supported, you can show points only in a specific range, e.g. filter by elevation， filter by timestamps etc.
-   支持按范围过滤显示的点云，比如可以按高程过滤、按时间戳过滤。
+7. Filter by range is supported (can be found named "Beyond Strategy" in historgam window), you can show points only in a specific range, e.g. filter by elevation， filter by timestamps etc.
+   支持按范围过滤显示的点云(直方图控件中的"Beyond Strategy"选项)，比如可以按高程过滤、按时间戳过滤。
 ...
  
+
