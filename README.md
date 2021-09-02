@@ -3,7 +3,7 @@ It is a lightweight and powerful point cloud visualization software, which suppo
 
 一款轻量而功能强大的点云可视化软件，支持pcd, ply, las等多种格式，轻松打开海量点云数据，支持多方式多字段渲染点云，对点进行方便的查询和量测，可应用于测绘、高精地图、SLAM等领域。
 
-![image](https://user-images.githubusercontent.com/40223484/131897895-e082d4f7-dea8-4a2e-a815-7235381b24b7.png)
+![image](https://user-images.githubusercontent.com/40223484/131898445-53b8595d-b8fe-42ed-8306-fd0f15d79ed4.png)
 
 ## Shortcut key
 P/p   Pan quickly/slowly      使平移速度变快/变慢  
