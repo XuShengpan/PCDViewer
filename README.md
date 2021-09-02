@@ -33,6 +33,6 @@ Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住A
 6. Provides a MAGNIFIER tool to take a closer obsveration to a specific location, and tool can also used to selected a roaming center for the scene;
    提供了一个放大镜工具对指定点观看，这个工具同时也可用来指定场景的漫游中心点;
 7. Filter by range is supported (can be found named "Beyond Strategy" in historgam window), you can show points only in a specific range, e.g. filter by elevation， filter by timestamps etc.
-   支持按范围过滤显示的点云(直方图控件中的"Beyond Strategy"选项)，比如可以按高程过滤、按时间戳过滤。
+   支持按范围过滤显示的点云(直方图控件中的"Beyond Strategy"选项)，比如可以按高程过滤、按时间戳过滤。  
 ...
  
