@@ -19,7 +19,7 @@ V     Rotate verticaly only (i.e. disable rotate horizontally)    仅允许竖�
 Alt + right_button_press on LayerTree space : create folder item. This can be used when there is no free space for creating new tree items.  
 Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住Alt键，就可以弹出”Add Folder”菜单选项了。 
   
-## Important Feature
+## Important Features
 1. LAS 1.2 and any format that obey PCL PCD/PLY format files can be loaded and visualization;    
    LAS 1.2和任何满足PCL PCD/PLY 格式规范的点云文件都可以被加载和显示；  
 2. You can render the point cloud as any field conveniently；  
