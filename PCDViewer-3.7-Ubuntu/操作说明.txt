@@ -1,0 +1,34 @@
+1. 启动软件
+   双击PCDViewer.exe
+   （OrthoPCDViewer.exe为按正射视图显示点云，操作与PCDViewer基本一致，不支持旋转。）
+
+2. 支持的文件格式
+   las, pcd, ply
+
+3. 打开pcd/las, 可以支持一次打开多个文件。可以在打开文件之前，先打开pose文件，显示点云拼接效果
+   pose文件格式  frame_id time_stamp      x       y      z     qx     qy     qz     qw
+                           int         double            doulbe double double double double double double
+
+4. 可以配置点的类别及颜色：菜单栏 -> config -> Color Tabel
+
+5. 快捷键
+   S/s   增加/减小点大小
+
+   P/p          使平移速度变快/变慢
+   Z/z           使缩放速度变快/变慢
+   R/r           使旋转速度变快/变慢
+   shift + r    开启/关闭自动旋转
+   
+   H:  只在水平方向进行旋转 -- 禁用上下旋转
+   V：只在竖直方向进行旋转 -- 禁用水平旋转
+   
+   关于缩放的一个小技巧：支持无限放大。有时候看起来还有放大空间，但放大不动了，不是放大到头了，实际上还可以放大。多次按大写Z，放大缩放速度，然后就会发现又可以放大了。
+
+6. 关于Layer Tree的操作
+   1）双击鼠标修改Folder Item名字
+   2）点击鼠标右键弹出菜单
+   3）有时候Layer Tree操作空间被占满，无法出现”Add Folder”菜单选项，可以在点击鼠标右键的同时按住Atl键，就可以弹出”Add Folder”菜单选项了。
+   
+
+   
+    
