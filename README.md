@@ -6,7 +6,7 @@ It is a lightweight and powerful point cloud visualization software, which suppo
 # Release Page on CSDN  
 https://blog.csdn.net/Jacky_546287052/article/details/118074205?spm=1001.2014.3001.5502
 
-![image](https://user-images.githubusercontent.com/40223484/131898445-53b8595d-b8fe-42ed-8306-fd0f15d79ed4.png)
+![image](https://github.com/XuShengpan/PCDViewer/blob/master/1.png)
 
 ## Shortcut key
 P/p   Pan quickly/slowly      使平移速度变快/变慢  
