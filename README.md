@@ -36,6 +36,20 @@ Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住A
 6. Provides a MAGNIFIER tool to take a closer obsveration to a specific location, and tool can also used to selected a roaming center for the scene;  
    提供了一个放大镜工具对指定点观看，这个工具同时也可用来指定场景的漫游中心点;  
 7. Filter by range is supported (can be found named "Beyond Strategy" in historgam window), you can show points only in a specific range, e.g. filter by elevation， filter by timestamps etc.  
-   支持按范围过滤显示的点云(直方图控件中的"Beyond Strategy"选项)，比如可以按高程过滤、按时间戳过滤。  
+   支持按范围过滤显示的点云(直方图控件中的"Beyond Strategy"选项)，比如可以按高程过滤、按时间戳过滤。
+8. It is supported to show mapping result with a pose file. You can load the pose file before loading point cloud files.  
+   Pose file format:  
+   frame_id  timestamp  x   y   z  qx  qy  qz  qw  
+   frame_id: the base_name of the pcd file (e.g 1.pcd, the base_name is 1)  
+             it is suggested that the base_name name after the id or timestamp.  
+   timestamp: time stamp of the point cloud  
+   x, y, z : position  
+   qx, qy, qz, qw: normalized quaternion  
+   There is a demo pose file in test_data folder in the installation path.  
+   
+   支持按pose显示点云拼接效果。在加载单帧点云文件前，可以先加载pose文件以显示点云拼接效果。  
+   Pose 文件的格式：  
+   frame_id  timestamp  x   y   z  qx  qy  qz  qw  
+   在安装目录的test_data文件夹下有一个样例文件。  
 ...
  
