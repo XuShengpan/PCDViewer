@@ -15,6 +15,7 @@ Z/z   Zoom quickly/slowly     使缩放速度变快/变慢
 Shift + r   Start/Stop auto rotating    开启/停止 自动旋转  
   
 S/s   Show points bigger/smaller  使点显示变大/变小  
+Alt + X    snap a picture for current window  截图
   
 H     Rotate horizontally only (i.e. disable rotate vertically)   仅允许水平旋转（即禁用竖直旋转）  
 V     Rotate verticaly only (i.e. disable rotate horizontally)    仅允许竖直旋转（即禁用水平旋转）  
