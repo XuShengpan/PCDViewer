@@ -28,7 +28,7 @@ Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住A
    LAS 1.2和任何满足PCL PCD/PLY 格式规范的点云文件都可以被加载和显示；  
 2. You can render the point cloud as any field conveniently；  
    可以方便地按任意字段渲染点云；  
-3. For a given field, multiple rendering styles are supported, including color table, random color and continuous color;
+3. For a given field, multiple rendering styles are supported, including color table, random color and continuous color;    
    对指定的字段，提供了多种渲染方式，包括颜色表、随机色和连续色；  
 5. Edit for color table is supported;  
    支持编辑颜色表；  
