@@ -28,17 +28,17 @@ Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住A
    LAS 1.2和任何满足PCL PCD/PLY 格式规范的点云文件都可以被加载和显示；  
 2. You can render the point cloud as any field conveniently；  
    可以方便地按任意字段渲染点云；  
-3. For a given field, multi rendering style for is support, includes as color table, random color and continuous color;  
+3. For a given field, multiple rendering styles are supported, including color table, random color and continuous color;
    对指定的字段，提供了多种渲染方式，包括颜色表、随机色和连续色；  
-4. Edit for color table is supported;  
+5. Edit for color table is supported;  
    支持编辑颜色表；  
-5. Query for point coordinate and measure for distance between two points are supported;  
+6. Query for point coordinate and measure for distance between two points are supported;  
    支持对点的坐标查询和点间距离的量测；  
-6. Provides a MAGNIFIER tool to take a closer obsveration to a specific location, and tool can also used to selected a roaming center for the scene;  
+7. Provides a MAGNIFIER tool to take a closer obsveration to a specific location, and tool can also used to selected a roaming center for the scene;  
    提供了一个放大镜工具对指定点观看，这个工具同时也可用来指定场景的漫游中心点;  
-7. Filter by range is supported (can be found named "Beyond Strategy" in historgam window), you can show points only in a specific range, e.g. filter by elevation， filter by timestamps etc.  
+8. Filter by range is supported (can be found named "Beyond Strategy" in historgam window), you can show points only in a specific range, e.g. filter by elevation， filter by timestamps etc.  
    支持按范围过滤显示的点云(直方图控件中的"Beyond Strategy"选项)，比如可以按高程过滤、按时间戳过滤。
-8. It is supported to show mapping result with a pose file. You can load the pose file before loading point cloud files.  
+9. It is supported to show mapping result with a pose file. You can load the pose file before loading point cloud files.  
    Pose file format:  
    frame_id  timestamp  x   y   z  qx  qy  qz  qw  
    frame_id: the base_name of the pcd file (e.g 1.pcd, the base_name is 1)  
