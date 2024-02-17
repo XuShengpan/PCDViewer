@@ -1,3 +1,10 @@
+###############################################################################################
+new licsence: UW@u&=&6SqvZE-%Vx?1>raLr
+
+How to update the license: replace the content of License.txt file which in installation directory.
+###############################################################################################
+
+
 # PCDViewer
 It is a lightweight and powerful point cloud visualization software, which supports PCD, ply, Las etc., easily opens massive point cloud data, supports multi-mode and multi field rendering for point cloud and convenient query and measurement of points, which can be applied to surveying and mapping, high-precision map, SLAM and other fields.
 
