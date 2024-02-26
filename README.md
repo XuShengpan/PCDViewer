@@ -1,7 +1,8 @@
 #####################################################################################################    
-new licsence: UW@u&=&6SqvZE-%Vx?1>raLr  
+new license: UW@u&=&6SqvZE-%Vx?1>raLr  
   
-How to update the license: replace the content of License.txt file which is in installation directory.  
+How to update the license: replace the content of License.txt file which is in installation directory
+with the new license.
 ##################################################################################################### 
 
 
