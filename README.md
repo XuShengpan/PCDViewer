@@ -1,5 +1,5 @@
 #####################################################################################################    
-new license: eAbIWvMj4<2H7$?hP-+h-mVE  
+new license: b4vZ+#m1hL4BmO?91mtr-Hbm  
   
 How to update the license: replace the content of License.txt file which is in installation directory
 with the new license.
