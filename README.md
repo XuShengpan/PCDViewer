@@ -50,7 +50,7 @@ Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住A
    Pose file format:  
    frame_id  timestamp  x   y   z  qx  qy  qz  qw  
    frame_id: the base_name of the pcd file (e.g 1.pcd, the base_name is 1)  
-             it is suggested that the base_name name after the id or timestamp.  
+             it is suggested that the base_name name with the id or timestamp.  
    timestamp: time stamp of the point cloud  
    x, y, z : position  
    qx, qy, qz, qw: normalized quaternion  
