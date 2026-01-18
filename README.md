@@ -62,4 +62,8 @@ Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住A
    在安装目录的test_data文件夹下有一个样例文件。  
 10. Filter ground and label for point cloud is supported, you can filter ground points by pop menu of the point cloud item in LayerTree, and use POLYGON SELECTION LABEL tool and Diffuse LABEL TOOL to label the point cloud. After labeling, the point cloud item will add a star (*) tag at the front of its name to identify the label state, the user can export label result with Save Label PCD button in pop menu of the point cloud item.    
     软件提供了点云滤波和编辑功能。点云地面滤波是点云处理中常用功能，软件提供了一个点云地面滤波器，对城区和山区、车载和机载等点云都能取得不错的地面滤波效果，点云滤波中的参数可以在Ground Filter Parameters Config中设置。软件提供了“多边形选点(Polygon Label Tool)”和“扩散选点(Diffuse Label Tool)”标注工具，对带label或classification字段的点云数据，通过标注工具选中点，即可将点分至目标类别，目标类别通过组合框指定。Layer Tree中的文件名前面会带星号以标识状态。用户可以通过弹出菜单中的Save Label PCD 按钮保存滤波和编辑结果。
+
+11. Draw simple graphics is supported, it is designed for showing HD-Map, points, lines, triangles, polygon, polyline are supported. The graphics file format is json.
+    The github repo: https://github.com/XuShengpan/GeneralGraphicsFormat#
+    支持绘制简单的图形，本功能为高精地图显示而设计，支持点、线、三角形、多边形、多线段。图形文件为Json格式，github代码仓库：https://github.com/XuShengpan/GeneralGraphicsFormat#
  
