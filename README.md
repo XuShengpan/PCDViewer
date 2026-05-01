@@ -14,22 +14,28 @@ It is a lightweight and powerful point cloud visualization software, which suppo
 # Release Page on CSDN  
 https://blog.csdn.net/Jacky_546287052/article/details/118074205
 
-![image](https://github.com/XuShengpan/PCDViewer/blob/master/1.png)
+![image](https://github.com/XuShengpan/PCDViewer/blob/master/1.jpg)
 
 ## Shortcut key
-P/p   Pan quickly/slowly      使平移速度变快/变慢  
-R/r   Rotate quickly/slowly   使旋转速度变快/变慢  
-Z/z   Zoom quickly/slowly     使缩放速度变快/变慢  
-Shift + r   Start/Stop auto rotating    开启/停止 自动旋转  
+   S/s          增加/减少点大小
+   P/p          使平移速度变快/变慢
+   Z/z          使缩放速度变快/变慢
+   R/r          使旋转速度变快/变慢
   
-S/s   Show points bigger/smaller  使点显示变大/变小  
-Alt + X    snap a picture for current window  截图
-  
-H     Rotate horizontally only (i.e. disable rotate vertically)   仅允许水平旋转（即禁用竖直旋转）  
-V     Rotate verticaly only (i.e. disable rotate horizontally)    仅允许竖直旋转（即禁用水平旋转）  
-
-Alt + right_button_press on LayerTree space : create folder item. This can be used when there is no free space for creating new tree items.  
-Layer Tree操作空间被占满时，可以在点击鼠标右键的同时按住Alt键，就可以弹出”Add Folder”菜单选项了。 
+   下列快捷键不区分大小写： 
+   E              开启放大镜   (Eye)
+   F              开启标记点 (Flag)
+   W            漫游（默认状态） （World）
+   Q             查询点 （Query）
+   D             量测距离 （Distance）
+   A             量测角度 （Angle）
+   T             量测局部平面厚度 （Thickness）
+   C             清除（清除点查询、量测、放大镜等相关绘制）  （Clear）
+   H             禁止/开启左右旋转 （Horizontal）
+   V             禁止/开启上下旋转 （Vertical）
+   
+   shift + r    开启/关闭自动旋转
+   Alt + x      截图（version >= 4.8.0）
   
 ## Important Features
 1. LAS 1.2 and any format that obey PCL PCD/PLY format files can be loaded and visualization;    
