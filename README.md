@@ -16,26 +16,26 @@ https://blog.csdn.net/Jacky_546287052/article/details/118074205
 
 ![image](https://github.com/XuShengpan/PCDViewer/blob/master/1.jpg)
 
-## Shortcut key
-   S/s          增加/减少点大小
-   P/p          使平移速度变快/变慢
-   Z/z          使缩放速度变快/变慢
-   R/r          使旋转速度变快/变慢
-  
-   下列快捷键不区分大小写： 
-   E              开启放大镜   (Eye)
-   F              开启标记点 (Flag)
-   W            漫游（默认状态） （World）
-   Q             查询点 （Query）
-   D             量测距离 （Distance）
-   A             量测角度 （Angle）
-   T             量测局部平面厚度 （Thickness）
-   C             清除（清除点查询、量测、放大镜等相关绘制）  （Clear）
-   H             禁止/开启左右旋转 （Horizontal）
-   V             禁止/开启上下旋转 （Vertical）
-   
-   shift + r    开启/关闭自动旋转
-   Alt + x      截图（version >= 4.8.0）
+## Shortcut key  
+   S/s          增加/减少点大小  
+   P/p          使平移速度变快/变慢  
+   Z/z          使缩放速度变快/变慢  
+   R/r          使旋转速度变快/变慢  
+    
+   下列快捷键不区分大小写：   
+   E             开启放大镜   (Eye)  
+   F             开启标记点 (Flag)  
+   W             漫游（默认状态） （World）  
+   Q             查询点 （Query）  
+   D             量测距离 （Distance）  
+   A             量测角度 （Angle）  
+   T             量测局部平面厚度 （Thickness）  
+   C             清除（清除点查询、量测、放大镜等相关绘制）  （Clear）  
+   H             禁止/开启左右旋转 （Horizontal）  
+   V             禁止/开启上下旋转 （Vertical）  
+     
+   shift + r    开启/关闭自动旋转  
+   Alt + x      截图（version >= 4.8.0）  
   
 ## Important Features
 1. LAS 1.2 and any format that obey PCL PCD/PLY format files can be loaded and visualization;    
