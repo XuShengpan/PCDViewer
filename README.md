@@ -32,7 +32,9 @@ https://blog.csdn.net/Jacky_546287052/article/details/118074205
    T ------ 量测局部平面厚度 （Thickness）  
    C ------ 清除（清除点查询、量测、放大镜等相关绘制）  （Clear）  
    H ------ 禁止/开启左右旋转 （Horizontal）  
-   V ------ 禁止/开启上下旋转 （Vertical）   
+   V ------ 禁止/开启上下旋转 （Vertical） 
+   
+   G ------ GroundCutLabelTool 基于地面点的点云编辑工具 
    
    shift + r ------ 开启/关闭自动旋转    
   
