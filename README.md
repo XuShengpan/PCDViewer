@@ -14,7 +14,9 @@ It is a lightweight and powerful point cloud visualization and editing software,
 # Release Page on CSDN  
 https://blog.csdn.net/Jacky_546287052/article/details/118074205
 
-![image](https://github.com/XuShengpan/PCDViewer/blob/master/1.jpg)
+![image](https://github.com/XuShengpan/PCDViewer/blob/master/1.png)
+![image](https://github.com/XuShengpan/PCDViewer/blob/master/2.png)
+![image](https://github.com/XuShengpan/PCDViewer/blob/master/3.png)
 
 ## Shortcut key  
    S/s ---- 增加/减少点大小  
