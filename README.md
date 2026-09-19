@@ -7,7 +7,7 @@ with the new license.
 
 
 # PCDViewer
-It is a lightweight and powerful point cloud visualization and editing software, which supports PCD, ply, Las and KITTI bin etc., easily opens massive point cloud data, supports multi-mode and multi field rendering for point cloud and convenient query , measurement and labeling point clouds, it can be applied to surveying and mapping, high-precision map, SLAM and other fields.
+It is a lightweight yet powerful point cloud visualization and editing software that supports multiple formats, including PCD, PLY, LAS, and KITTI bin. It can easily open massive point cloud datasets and supports multi-mode and multi-field rendering, as well as convenient querying, measurement, and labeling of points. It can be applied to surveying and mapping, high-precision map visualization and production, SLAM and other fields.
 
 一款轻量而功能强大的点云可视化和编辑软件，支持pcd, ply, las, KITTI bin等多种格式，轻松打开海量点云数据，支持多方式多字段渲染点云，对点进行方便的查询、量测和标注，可应用于测绘、高精地图、SLAM等领域。
 
