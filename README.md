@@ -17,6 +17,7 @@ https://blog.csdn.net/Jacky_546287052/article/details/118074205
 ![image](1.png)
 ![image](2.png)
 ![image](3.png)
+![image](4.png)
 
 ## Shortcut key  
    S/s ---- 增加/减少点大小  
